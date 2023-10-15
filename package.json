@@ -1,0 +1,17 @@
+{
+  "name": "nepalmap",
+  "version": "1.0.0",
+  "description": "Embed Nepal Map",
+  "main": "src/NepalMap.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Nepal",
+    "NepalMap",
+    "Nepal SVG"
+  ],
+  "author": "",
+  "license": "ISC"
+}
