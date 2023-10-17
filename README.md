@@ -1,6 +1,6 @@
 # NepalMap
 
-**nepalmap.js** allows you to embed a clickable svg map of Nepal.
+**nepalmap** allows you to embed a clickable svg map of Nepal.
 
 ## Installing
 
